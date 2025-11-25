@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flight Price Prediction</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        .container {
+            width: 400px;
+            margin: auto;
+        }
+        label {
+            font-weight: bold;
+        }
+        .prediction-box {
+            border: 2px solid red;
+            background-color: #ffe5e5;
+            padding: 15px;
+            margin-top: 20px;
+            color: red;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        button {
+            background-color: black;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            margin-top: 15px;
+            cursor: pointer;
+            width: 100%;
+        }
+        button:hover {
+            background-color: #333;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Flight Price Predictor</h2>
+    <form method="post">
+
+        <!-- Source Dropdown -->
+        <label>Source:</label><br>
+        <select name="source" required>
+            <option value="Bengaluru">Bengaluru</option>
+        </select><br><br>
+
+        <!-- Destination Dropdown -->
+        <label>Destination:</label><br>
+        <select name="destination" required>
+            <option value="New Delhi">New Delhi</option>
+        </select><br><br>
+
+        <!-- Date Picker -->
+        <label>Select Date:</label><br>
+        <input type="date" name="date" required><br><br>
+
+        <!-- Time Picker -->
+        <label>Select Time (24-hour format):</label><br>
+        <input type="time" name="time" required><br><br>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    <!-- Prediction Message -->
+    {% if prediction %}
+        <div class="prediction-box">
+            {{ prediction }}
+        </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

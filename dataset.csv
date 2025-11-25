@@ -1,0 +1,97 @@
+Airline,Flight_no,Time_Stamp_Date,Time_Stamp_Time,Source,Destination,Route,Dep_Time,Arrival_Time,Duration,Total_Stops,Price
+IndiGo,6E 6813,20/11/25,0:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6194
+IndiGo,6E 6813,20/11/25,3:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6194
+IndiGo,6E 6813,20/11/25,6:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6194
+IndiGo,6E 6813,20/11/25,9:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6622
+IndiGo,6E 6813,20/11/25,12:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6622
+IndiGo,6E 6813,20/11/25,15:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6622
+IndiGo,6E 6813,20/11/25,18:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6622
+IndiGo,6E 6813,20/11/25,21:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6622
+IndiGo,6E 6813,21/11/25,0:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6622
+IndiGo,6E 6813,21/11/25,3:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6214
+IndiGo,6E 6813,21/11/25,6:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6214
+IndiGo,6E 6813,21/11/25,9:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6517
+IndiGo,6E 6813,21/11/25,12:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6517
+IndiGo,6E 6813,21/11/25,15:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6517
+IndiGo,6E 6813,21/11/25,18:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6517
+IndiGo,6E 6813,21/11/25,21:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6815
+IndiGo,6E 6813,22/11/25,0:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6815
+IndiGo,6E 6813,22/11/25,3:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6815
+IndiGo,6E 6813,22/11/25,6:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6815
+IndiGo,6E 6813,22/11/25,9:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6815
+IndiGo,6E 6813,22/11/25,12:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6885
+IndiGo,6E 6813,22/11/25,15:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6885
+IndiGo,6E 6813,22/11/25,18:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,6885
+IndiGo,6E 6813,22/11/25,21:00,Banglore,New Delhi,BLR - DEL,23:30,2:25,2h 55m,non stop,8274
+IndiGo,6E 6283,20/11/25,0:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,19313
+IndiGo,6E 6283,20/11/25,3:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,19313
+IndiGo,6E 6283,20/11/25,6:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,19313
+IndiGo,6E 6283,20/11/25,9:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20783
+IndiGo,6E 6283,20/11/25,12:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20783
+IndiGo,6E 6283,20/11/25,15:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20783
+IndiGo,6E 6283,20/11/25,18:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20783
+IndiGo,6E 6283,20/11/25,21:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,15339
+IndiGo,6E 6283,21/11/25,0:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,15339
+IndiGo,6E 6283,21/11/25,3:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,15339
+IndiGo,6E 6283,21/11/25,6:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,15339
+IndiGo,6E 6283,21/11/25,9:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,15339
+IndiGo,6E 6283,21/11/25,12:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20881
+IndiGo,6E 6283,21/11/25,15:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20881
+IndiGo,6E 6283,21/11/25,18:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20881
+IndiGo,6E 6283,21/11/25,21:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20668
+IndiGo,6E 6283,22/11/25,0:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20668
+IndiGo,6E 6283,22/11/25,3:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,20668
+IndiGo,6E 6283,22/11/25,6:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,19880
+IndiGo,6E 6283,22/11/25,9:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,19880
+IndiGo,6E 6283,22/11/25,12:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,22366
+IndiGo,6E 6283,22/11/25,15:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,22366
+IndiGo,6E 6283,22/11/25,18:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,24728
+IndiGo,6E 6283,22/11/25,21:00,Banglore,New Delhi,BLR - BOM - DEL,23:25,5:00,5h 35m,1 stop,24728
+IndiGo,6E 6021,20/11/25,0:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,6885
+IndiGo,6E 6021,20/11/25,3:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,6885
+IndiGo,6E 6021,20/11/25,6:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,6885
+IndiGo,6E 6021,20/11/25,9:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,7875
+IndiGo,6E 6021,20/11/25,12:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,7875
+IndiGo,6E 6021,20/11/25,15:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,7875
+IndiGo,6E 6021,20/11/25,18:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,6970
+IndiGo,6E 6021,20/11/25,21:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,6970
+IndiGo,6E 6021,21/11/25,0:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,9261
+IndiGo,6E 6021,21/11/25,3:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,8925
+IndiGo,6E 6021,21/11/25,6:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,8925
+IndiGo,6E 6021,21/11/25,9:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,8925
+IndiGo,6E 6021,21/11/25,12:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,10395
+IndiGo,6E 6021,21/11/25,15:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,10395
+IndiGo,6E 6021,21/11/25,18:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,10452
+IndiGo,6E 6021,21/11/25,21:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,10452
+IndiGo,6E 6021,22/11/25,0:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,14195
+IndiGo,6E 6021,22/11/25,3:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,14195
+IndiGo,6E 6021,22/11/25,6:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,15821
+IndiGo,6E 6021,22/11/25,9:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,15821
+IndiGo,6E 6021,22/11/25,12:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,16000
+IndiGo,6E 6021,22/11/25,15:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,16000
+IndiGo,6E 6021,22/11/25,18:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,18127
+IndiGo,6E 6021,22/11/25,21:00,Banglore,New Delhi,BLR - DEL,5:45,8:35,2h 50m,non stop,18127
+IndiGo,6E 6401,20/11/25,0:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6622
+IndiGo,6E 6401,20/11/25,3:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6622
+IndiGo,6E 6401,20/11/25,6:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6622
+IndiGo,6E 6401,20/11/25,9:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6622
+IndiGo,6E 6401,20/11/25,12:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6622
+IndiGo,6E 6401,20/11/25,15:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6622
+IndiGo,6E 6401,20/11/25,18:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6622
+IndiGo,6E 6401,20/11/25,21:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6885
+IndiGo,6E 6401,21/11/25,0:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6885
+IndiGo,6E 6401,21/11/25,3:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6885
+IndiGo,6E 6401,21/11/25,6:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,6885
+IndiGo,6E 6401,21/11/25,9:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,7875
+IndiGo,6E 6401,21/11/25,12:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,7875
+IndiGo,6E 6401,21/11/25,15:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,7875
+IndiGo,6E 6401,21/11/25,18:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,7875
+IndiGo,6E 6401,21/11/25,21:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,7586
+IndiGo,6E 6401,22/11/25,0:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,7586
+IndiGo,6E 6401,22/11/25,3:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,7586
+IndiGo,6E 6401,22/11/25,6:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,8321
+IndiGo,6E 6401,22/11/25,9:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,8321
+IndiGo,6E 6401,22/11/25,12:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,8321
+IndiGo,6E 6401,22/11/25,15:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,8321
+IndiGo,6E 6401,22/11/25,18:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,9371
+IndiGo,6E 6401,22/11/25,21:00,Banglore,New Delhi,BLR - DEL,13:00,15:55,2h 55m,non stop,9371
