@@ -72,7 +72,12 @@
             {{ prediction }}
         </div>
     {% endif %}
-
+    {% if graph %}
+    <h3>48-Hour Price Trend Before Departure</h3>
+    <img src="{{ url_for('static', filename='price_48hr.png') }}" 
+         alt="48 Hour Price Graph"
+         style="width: 80%; border: 1px solid #ccc; border-radius: 10px; margin-top: 15px;">
+    {% endif %}
 </div>
 
 </body>
